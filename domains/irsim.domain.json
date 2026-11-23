@@ -1,0 +1,13 @@
+{
+  "description": "Official website of INDIAN RAILWAY SIMULATOR-AKV",
+  "domain": "owns.it.com",
+  "subdomain": "irsim",
+  "owner": {
+    "repo": "https://github.com/Akshatam030-lgtm/Indian-Railway-Simulator",
+    "email": "vermarashi030@gmail.com"
+  },
+  "record": {
+    "CNAME": "akshatam030-lgtm.github.io"
+  },
+  "proxied": false
+}
